@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vk-photo-frames/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-photo-frames/static/js/main.79ed44f8.chunk.js",
+    "main.js.map": "/vk-photo-frames/static/js/main.79ed44f8.chunk.js.map",
+    "runtime-main.js": "/vk-photo-frames/static/js/runtime-main.4df7ea86.js",
+    "runtime-main.js.map": "/vk-photo-frames/static/js/runtime-main.4df7ea86.js.map",
+    "static/css/2.86df01db.chunk.css": "/vk-photo-frames/static/css/2.86df01db.chunk.css",
+    "static/js/2.62b673b3.chunk.js": "/vk-photo-frames/static/js/2.62b673b3.chunk.js",
+    "static/js/2.62b673b3.chunk.js.map": "/vk-photo-frames/static/js/2.62b673b3.chunk.js.map",
+    "index.html": "/vk-photo-frames/index.html",
+    "precache-manifest.6d1ed1a9767334da1707ffefede02c14.js": "/vk-photo-frames/precache-manifest.6d1ed1a9767334da1707ffefede02c14.js",
+    "service-worker.js": "/vk-photo-frames/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/vk-photo-frames/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-photo-frames/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.62b673b3.chunk.js.LICENSE.txt": "/vk-photo-frames/static/js/2.62b673b3.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/vk-photo-frames/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df7ea86.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.62b673b3.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.79ed44f8.chunk.js"
+  ]
+}
