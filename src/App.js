@@ -18,6 +18,7 @@ const App = () => {
 				schemeAttribute.value = data.scheme ? data.scheme : 'client_light';
 				document.body.attributes.setNamedItem(schemeAttribute);
 			}
+			else console.log(type);
 		});
 		async function fetchData() {
 			const user = await bridge.send('VKWebAppGetUserInfo');
